@@ -1,1 +1,1 @@
-This is a repo built to test parallel computation for computationally or big data intensive tasks
+This is a repo built to test parallel computating frameworks for computationally operations
